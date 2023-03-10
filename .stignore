@@ -1,3 +1,4 @@
 (?d).git
 (?d)/vendor/bundle
 (?d)/tmp
+(?d)/node_modules
